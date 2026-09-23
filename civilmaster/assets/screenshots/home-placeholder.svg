@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 350" width="200" height="350">
+  <rect width="200" height="350" rx="15" fill="#F0F0F0"/>
+  <rect x="10" y="10" width="180" height="40" rx="8" fill="#0050C0"/>
+  <text x="100" y="35" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Home Dashboard</text>
+  <rect x="15" y="60" width="85" height="100" rx="8" fill="#E5E7EB"/>
+  <rect x="105" y="60" width="80" height="100" rx="8" fill="#E5E7EB"/>
+  <rect x="15" y="170" width="85" height="100" rx="8" fill="#E5E7EB"/>
+  <rect x="105" y="170" width="80" height="100" rx="8" fill="#E5E7EB"/>
+  <rect x="15" y="280" width="170" height="30" rx="6" fill="#0050C0"/>
+  <text x="100" y="300" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Quick Actions</text>
+</svg>

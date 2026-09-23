@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 350" width="200" height="350">
+  <rect width="200" height="350" rx="15" fill="#F0F0F0"/>
+  <rect x="10" y="10" width="180" height="40" rx="8" fill="#0050C0"/>
+  <text x="100" y="35" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Practice Quiz</text>
+  <rect x="15" y="60" width="170" height="100" rx="8" fill="white" stroke="#E5E7EB"/>
+  <text x="25" y="80" font-family="Arial" font-size="11" fill="#0050C0">Question 1 of 5</text>
+  <rect x="25" y="90" width="150" height="30" rx="4" fill="#E5E7EB"/>
+  <text x="30" y="110" font-family="Arial" font-size="10" fill="#6B7280">What is the unit of stress?</text>
+  <rect x="25" y="130" width="150" height="20" rx="4" fill="white" stroke="#E5E7EB"/>
+  <circle cx="35" cy="140" r="5" fill="#E5E7EB"/>
+  <text x="45" y="145" font-family="Arial" font-size="9" fill="#6B7280">N/m</text>
+  <rect x="25" y="155" width="150" height="20" rx="4" fill="#0050C0"/>
+  <circle cx="35" cy="165" r="5" fill="white"/>
+  <text x="45" y="170" font-family="Arial" font-size="9" fill="white">N/m²</text>
+  <rect x="15" y="170" width="170" height="100" rx="8" fill="white" stroke="#E5E7EB"/>
+  <text x="25" y="190" font-family="Arial" font-size="11" fill="#0050C0">Question 2 of 5</text>
+  <rect x="25" y="200" width="150" height="30" rx="4" fill="#E5E7EB"/>
+  <text x="30" y="220" font-family="Arial" font-size="10" fill="#6B7280">Which test determines bearing capacity?</text>
+  <rect x="25" y="240" width="150" height="20" rx="4" fill="white" stroke="#E5E7EB"/>
+  <circle cx="35" cy="250" r="5" fill="#E5E7EB"/>
+  <text x="45" y="255" font-family="Arial" font-size="9" fill="#6B7280">Proctor test</text>
+  <rect x="15" y="280" width="80" height="30" rx="6" fill="#0050C0"/>
+  <text x="55" y="300" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Previous</text>
+  <rect x="105" y="280" width="80" height="30" rx="6" fill="#F86800"/>
+  <text x="145" y="300" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Next</text>
+</svg>

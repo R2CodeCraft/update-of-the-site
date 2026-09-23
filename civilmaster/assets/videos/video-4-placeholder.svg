@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" width="300" height="180">
+  <rect width="300" height="180" fill="#0050C0"/>
+  <circle cx="150" cy="90" r="40" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="150" cy="90" r="30" fill="rgba(255,255,255,0.3)"/>
+  <polygon points="140,70 140,110 170,90" fill="white"/>
+  <text x="150" y="150" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Surveying Techniques</text>
+</svg>

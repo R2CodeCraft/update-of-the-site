@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 350" width="200" height="350">
+  <rect width="200" height="350" rx="15" fill="#F0F0F0"/>
+  <rect x="10" y="10" width="180" height="40" rx="8" fill="#0050C0"/>
+  <text x="100" y="35" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Notes</text>
+  <rect x="15" y="60" width="170" height="80" rx="8" fill="white" stroke="#E5E7EB"/>
+  <rect x="25" y="70" width="120" height="15" rx="3" fill="#0050C0"/>
+  <rect x="25" y="90" width="150" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="25" y="102" width="140" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="25" y="114" width="130" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="25" y="126" width="100" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="15" y="150" width="170" height="80" rx="8" fill="white" stroke="#E5E7EB"/>
+  <rect x="25" y="160" width="120" height="15" rx="3" fill="#0050C0"/>
+  <rect x="25" y="180" width="150" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="25" y="192" width="140" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="25" y="204" width="130" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="25" y="216" width="100" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="15" y="240" width="170" height="80" rx="8" fill="white" stroke="#E5E7EB"/>
+  <rect x="25" y="250" width="120" height="15" rx="3" fill="#0050C0"/>
+  <rect x="25" y="270" width="150" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="25" y="282" width="140" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="25" y="294" width="130" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="25" y="306" width="100" height="8" rx="2" fill="#E5E7EB"/>
+</svg>
